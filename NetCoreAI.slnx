@@ -2,4 +2,5 @@
   <Project Path="NetCoreAI.Project1_Api101/NetCoreAI.Project1_Api101.csproj" />
   <Project Path="NetCoreAI.Project2_ApiConsumption/NetCoreAI.Project2_ApiConsumption.csproj" Id="e0be7ca6-c2ce-4083-a5e0-c2eb34d0ed90" />
   <Project Path="NetCoreAI.Project3_RapidApi/NetCoreAI.Project3_RapidApi.csproj" Id="e6f37a3d-dd96-4290-9d7f-34c0d28aa3a2" />
+  <Project Path="NetCoreAI.Project4_OpenAiChat/NetCoreAI.Project4_OpenAiChat.csproj" Id="4f57c3f9-2b33-4375-90f0-5207b22478c7" />
 </Solution>
