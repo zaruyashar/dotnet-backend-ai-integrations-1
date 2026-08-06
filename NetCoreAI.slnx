@@ -7,4 +7,5 @@
   <Project Path="NetCoreAI.Project6_OpenAiImageGenerationWithDallE/NetCoreAI.Project6_OpenAiImageGenerationWithDallE.csproj" Id="0776f970-63b1-445e-8bfe-8201acf1f194" />
   <Project Path="NetCoreAI.Project7_TesseractOcr/NetCoreAI.Project7_TesseractOcr.csproj" Id="e3b6888e-a0ca-40a4-b2ac-71f057a818aa" />
   <Project Path="NetCoreAI.Project8_GoogleCloudVision/NetCoreAI.Project8_GoogleCloudVision.csproj" Id="2375653a-f67a-4864-ac77-c58175b5d87b" />
+  <Project Path="NetCoreAI.Project9_TranslationWithOpenAi/NetCoreAI.Project9_TranslationWithOpenAi.csproj" Id="4a9af01a-6df6-4eb8-9660-4505544c6d88" />
 </Solution>
