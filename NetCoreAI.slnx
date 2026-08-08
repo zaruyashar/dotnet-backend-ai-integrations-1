@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="NetCoreAI.Project10_TextToSpeech/NetCoreAI.Project10_TextToSpeech.csproj" Id="fc2a3e79-70cd-465e-9feb-a7c955fc8a01" />
+  <Project Path="NetCoreAI.Project11_TextToSpeechWithOpenAi/NetCoreAI.Project11_TextToSpeechWithOpenAi.csproj" Id="fd9417a3-19be-4708-b077-1ed578cce593" />
   <Project Path="NetCoreAI.Project1_Api101/NetCoreAI.Project1_Api101.csproj" />
   <Project Path="NetCoreAI.Project2_ApiConsumption/NetCoreAI.Project2_ApiConsumption.csproj" Id="e0be7ca6-c2ce-4083-a5e0-c2eb34d0ed90" />
   <Project Path="NetCoreAI.Project3_RapidApi/NetCoreAI.Project3_RapidApi.csproj" Id="e6f37a3d-dd96-4290-9d7f-34c0d28aa3a2" />
