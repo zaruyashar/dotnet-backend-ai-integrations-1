@@ -8,4 +8,8 @@
     <UserSecretsId>ca095cbc-b0b5-488d-81a9-e576354d504c</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="10.0.11" />
+  </ItemGroup>
+
 </Project>
