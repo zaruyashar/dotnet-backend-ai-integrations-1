@@ -23,7 +23,7 @@ class Program
             Console.Write("Sentiment analysis in progress...");
             Console.WriteLine();
 
-            string sentiment = "";
+            string sentiment = await AnalyzeSentiment(userInput);
             Console.WriteLine($"Result: {sentiment}");
         }
     }
